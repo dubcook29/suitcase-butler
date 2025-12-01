@@ -10,8 +10,12 @@ In future plans, more WMPs (plug-ins) will be developed to cover the regular "re
 Everyone is welcome to provide suggestions, contribute code, and participate in testing.
 
 > [!Warning]
+> 'Red-Team BUTLER' is in active development, so don't expect it to work flawlessly. Instead, contribute by raising an issue or sending a PR.
+> 
 > This tool is intended for use in legitimate penetration testing and security assessments. Before using this tool, make sure you have explicit authorization from the owner of the target system.
 > By using this tool, you agree to abide by local laws and bear sole responsibility for any consequences and impacts caused by the use of this tool.
+>
+> By downloading, using, or modifying this source code, you agree to the terms of the [`LICENSE`](LICENSE) and the limitations outlined in the [`DISCLAIMER`](DISCLAIMER) file.
 
 ## Summary
 

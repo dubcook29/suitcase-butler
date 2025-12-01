@@ -1,0 +1,37 @@
+## Legal disclaimer for Red-Team BUTLER
+
+### Compliance & Intended Use
+'Red-Team BUTLER' is an automated tool that assists Red-Team personnel in the process of performing targets (WEB) penetration testing.
+
+This tool is intended for use in legitimate penetration testing and security assessments. Before using this tool, make sure you have explicit authorization from the owner of the target system.
+
+By using this tool, you agree to abide by local laws and bear sole responsibility for any consequences and impacts caused by the use of this tool.
+
+### Open Source Notice & Responsibility
+This source code is provided under the license terms detailed in the accompanying `LICENSE` file. Portions of 'Red-Team BUTLER' are released as open-source to encourage transparency and community collaboration.
+
+Please note:
+- The software is provided "as is", without warranty of any kind.
+- The authors and contributors assume no liability for any damages, data loss, or legal consequences arising from its use.
+- Users must conduct appropriate testing and validation before deploying this software in any production or mission-critical environment.
+
+### Security & Ethical Use
+- Non-Disruptive Use Only: 'Red-Team BUTLER' is intended for research, education, and evaluation purposes. It must not be used to disrupt, manipulate, or interfere with live production systems.
+- Authorized Access Required: Cybersecurity assessments or testing using this tool must be conducted only with explicit permission from the system owner.
+- Qualified Use: This software should be used by trained professionals following industry best practices and applicable organizational security policies.
+
+### Limitations
+- Use of this tool does not guarantee full protection against cyber threats or compliance with any regulatory framework.
+- It is not a substitute for formal cybersecurity audits, penetration testing services, or legal compliance assessments.
+- Users are fully responsible for the consequences of how they apply or modify the code.
+
+### Contact & Contributions
+We welcome community contributions to improve 'Red-Team BUTLER'. To contribute, report bugs, or request clarification on legal or compliance issues, please use [GitHub Issues].
+
+---
+
+Permission is granted to use, copy, and modify these components solely for non-commercial research and academic purposes, provided that this copyright notice and license are retained in all copies.
+
+Commercial, professional, or production use of these components is strictly prohibited without a commercial license.
+
+By downloading, using, or modifying this source code, you agree to the terms of the [`LICENSE`](LICENSE) and the limitations outlined in this disclaimer.
