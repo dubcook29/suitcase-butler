@@ -17,7 +17,7 @@ Everyone is welcome to provide suggestions, contribute code, and participate in 
 >
 > By downloading, using, or modifying this source code, you agree to the terms of the [`LICENSE`](LICENSE) and the limitations outlined in the [`DISCLAIMER`](DISCLAIMER) file.
 >
-> If you are interested, you can learn about [the story and design](design) behind 'BUTLER'.
+> If you are interested, you can learn about [the story and design](design.md) behind 'BUTLER'.
 
 ## Summary
 
