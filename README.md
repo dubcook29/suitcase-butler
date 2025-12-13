@@ -109,5 +109,20 @@ docker run -d --name butler_container -p 8080:80 \
   butler
 ```
 
-<hr/>
+## Development Roadmap
+
+The overall concept for this project has been explained in [the design](design.md). Please feel free to contact me anytime if you have any ideas.
+
+- Work Method Plugin Development (Built-in):
+  - [ ] WHOIS (IP/Domain/AS)
+  - [ ] DNS/rDNS
+  - [ ] Subdomain scanning
+  - [ ] Vulnerability scanning
+  - [ ] Service fingerprinting
+  - [ ] Port scanning
+
+- User experience optimization
+  - [ ] **Scheduler/Grid Web Visual Editing Development**: This allows users to no longer configure schedulers/grids via YAML/JSON, but instead to orchestrate schedulers/grids entirely within a freely editable visual workflow interface.
+ 
+<hr />
 <p align="center">Thank you for supporting the "Red-Team BUTLER" project</p>
