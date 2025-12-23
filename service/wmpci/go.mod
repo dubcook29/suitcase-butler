@@ -29,3 +29,5 @@ require (
 replace github.com/suitcase/butler => ../
 
 replace github.com/suitcase/butler/built_wmp => ../built_wmp
+
+replace github.com/suitcase/butler/wmp/butler_wmp_whois => ../../wmp/WHOIS

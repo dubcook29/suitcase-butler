@@ -23,7 +23,7 @@ type WMPCISessions struct {
 	workHomePath         string
 	wmp_connector        WMPConnector
 	wmp_connector_status bool
-	wmp_connector_errors string
+	// wmp_connector_errors string
 }
 
 func NewWMPCISession(workpath string) *WMPCISessions {

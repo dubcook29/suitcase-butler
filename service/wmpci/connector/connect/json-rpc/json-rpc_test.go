@@ -75,3 +75,26 @@ func TestServerConnection(t *testing.T) {
 	done()
 	wg.Wait()
 }
+
+func TestWMPCISessionCompleteTesting(t *testing.T) {
+	connector.WMPCISessionCompleteTesting(&connect_jsonrpc.WMPRPCClient{}, map[string]wmpci.WMPCustom{
+		"host": {
+			Name:        "host",
+			Value:       "localhost",
+			Required:    true,
+			Description: "json-rpc service hostname/ipaddress",
+		},
+		"port": {
+			Name:        "port",
+			Value:       8081,
+			Required:    true,
+			Description: "json-rpc service port number",
+		},
+		"serviceName": {
+			Name:        "serviceName",
+			Value:       "wmp",
+			Required:    true,
+			Description: "json-rpc service root-name",
+		},
+	})
+}
